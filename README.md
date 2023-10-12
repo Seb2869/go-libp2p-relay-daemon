@@ -16,7 +16,7 @@ for both protocol versions [v1](https://github.com/libp2p/specs/blob/master/rela
 To install the latest release:
 
 ```
-go install github.com/libp2p/go-libp2p-relay-daemon/cmd/libp2p-relay-daemon@latest
+go install github.com/ourzora/go-libp2p-relay-daemon/cmd/libp2p-relay-daemon@latest
 ```
 
 The above will install `libp2p-relay-daemon` binary in `GOBIN` which defaults to `$GOPATH/bin` or `$HOME/go/bin` if the `GOPATH` is not set.

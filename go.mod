@@ -1,9 +1,9 @@
-module github.com/libp2p/go-libp2p-relay-daemon
+module github.com/ourzora/go-libp2p-relay-daemon
 
 go 1.20
 
 require (
-	github.com/libp2p/go-libp2p v0.30.0
+	github.com/libp2p/go-libp2p v0.29.2
 	github.com/multiformats/go-multiaddr v0.11.0
 	golang.org/x/crypto v0.12.0
 )
